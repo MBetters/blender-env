@@ -16,7 +16,7 @@ cd ~/Desktop
 git clone -b b280 https://github.com/CGCookie/retopoflow.git
 cd retopoflow
 rm -rf addon_common
-rm -f b279
+# rm -f b279 # skip this for now
 git clone -b b280 https://github.com/CGCookie/addon_common.git
 ```
 
